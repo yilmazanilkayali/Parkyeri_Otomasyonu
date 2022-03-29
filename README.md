@@ -1,0 +1,2 @@
+# Parkyeri_Otomasyonu
+WindowsFormApplication ParkyeriOtomasyonu
